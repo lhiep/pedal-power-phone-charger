@@ -23,3 +23,12 @@ This project will be composed of 4 stages, each with sections that can be comple
     - Hardware design - Connecting everything from microcontroller to generator together on breadboard.
     - Software design - Arduino/ESP8266 programming.
     - App design - Android/ios app programming.
+- Final product - The final product is constructed based on the prototype.
+    - Hardware design - Soldering everything from microcontroller to generator together on pcb.
+    - Software design - Arduino/ESP8266 programming.
+    - App design - Android/ios app programming.
+- Testing & modifications - the product will be thoroughly tested and modified as necessary.
+    - Does it work as intended? If not, what’s wrong?
+    - Does it provide enough power? If not, why? If too much, how can it be more efficient?
+    - Does the app work as intended? If not, how can it be fixed?
+
